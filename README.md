@@ -30,7 +30,7 @@ Here are some details about my setup:
 - **Text Editor**                  : [Geany](https://www.geany.org/), nano, vim
 
 ## Changelogs
-- **New mode**: Minimal** (both theme)
+- **New mode**: Minimal (both theme)
 - **New wallpapers** (can be [added](./.wallpaper/) by yourself)
 - **Major changes**: Reconfigure most of the files**
 
