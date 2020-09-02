@@ -31,10 +31,8 @@ Here are some details about my setup:
 
 ## Changelogs
 - **New Mode: Minimal Mode** (both theme)
-               
 - **New wallpapers** (can be [added](./.wallpaper/) by yourself)
-
-- **Reconfigure**
+- **Reconfigure most of the files**
 
 Look in the [gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery) and [workflow](https://www.youtube.com/watch?v=5zLJO6UyZFw&t=3s) for more details.
 
