@@ -37,7 +37,9 @@ Here are some details about my setup:
 Look in the [gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery) and [video preview](https://www.youtube.com/watch?v=GRLUOrvEc2s) for more details.
 
 ## Setup
-## <p align="center">:construction_worker: README UNDER MAINTENANCE :construction_worker:</p>
+
+### <p align="center">:construction_worker: README UNDER MAINTENANCE :construction_worker:</p>
+<p align="center">SLiM Installation<p>
 
 ## Notes
 ### <p align="center">Detailed Environment</p>
