@@ -30,7 +30,7 @@ Here are some details about my setup:
 - **Text Editor**                  : [Geany](https://www.geany.org/), nano, vim
 
 ## Changelogs
-- **New Mode: Minimal Mode** (both theme)
+- **New Mode: Minimal** (both theme)
 - **New wallpapers** (can be [added](./.wallpaper/) by yourself)
 - **Major changes: Reconfigure most of the files**
 
@@ -39,7 +39,7 @@ Look in the [gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery) and [vide
 ## Setup
 
 ### <p align="center">:construction_worker: README UNDER MAINTENANCE :construction_worker:</p>
-<p align="center"><a href="https://github.com/owl4ce/dotfiles/tree/master/Others/slim">SLiM Installation</a><p>
+<p align="center"><a href="https://github.com/owl4ce/dotfiles/tree/master/Others/slim">SLiM Installation (Optional)</a><p>
 
 ## Notes
 ### <p align="center">Detailed Environment</p>
