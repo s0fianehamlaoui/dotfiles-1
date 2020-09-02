@@ -1,5 +1,5 @@
 ## Installation
-1. Put all fonts in the **fonts** folder to */usr/share/fonts/* and refresh font cache
+1. Put all fonts in the **fonts** folder to */usr/share/fonts/* and refresh font cache \
    `fc-cache -r`
 2. Put **slim.conf** into */etc/*
 3. put the **custom** folder to */usr/share/slim/themes/*
