@@ -30,9 +30,9 @@ Here are some details about my setup:
 - **Text Editor**                  : [Geany](https://www.geany.org/), nano, vim
 
 ## Changelogs
-- **New Mode: Minimal** (both theme)
+- **New mode**: Minimal** (both theme)
 - **New wallpapers** (can be [added](./.wallpaper/) by yourself)
-- **Major changes: Reconfigure most of the files**
+- **Major changes**: Reconfigure most of the files**
 
 Look in the [gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery) and [video preview](https://www.youtube.com/watch?v=GRLUOrvEc2s) for more details.
 
