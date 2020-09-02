@@ -7,8 +7,8 @@
 
 ## Additional configuration
 > Edit the **slim.conf** file
-- Screenshots
+- Screenshots \
   `screenshot_cmd      scrot -e 'mv $f /home/*username*/Pictures/'`
   
-Slim requires *~/ .xinitrc* to execute WM/DE sessions
+Slim requires *~/ .xinitrc* to execute WM/DE sessions \
 More information is available on the [Arch Wiki](https://wiki.archlinux.org/index.php/SLiM).
