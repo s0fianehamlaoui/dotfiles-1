@@ -12,13 +12,13 @@ if [[ $chkmin = *"minimal"* ]]; then
         notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/mechanical/wall-minimal)"
         convert ~/.wallpaper/mechanical/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
-        notify-send -u low -i $icon "SLiM Background" "Syncronized successfully" &
+        notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     else
         # Minimal Eyecandy Theme
         notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/eyecandy/wall-minimal)"
         convert ~/.wallpaper/eyecandy/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
-        notify-send -u low -i $icon "SLiM Background" "Syncronized successfully" &
+        notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     fi
 else
     if [[ $current = *"mechanical"* ]]; then
@@ -26,12 +26,12 @@ else
         notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/mechanical/wall)"
         convert ~/.wallpaper/mechanical/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
-        notify-send -u low -i $icon "SLiM Background" "Syncronized successfully" &
+        notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     else
         # Eyecandy Theme
         notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/eyecandy/wall)"
         convert ~/.wallpaper/eyecandy/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
-        notify-send -u low -i $icon "SLiM Background" "Syncronized successfully" &
+        notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     fi
 fi
