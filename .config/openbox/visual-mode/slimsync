@@ -9,13 +9,13 @@ icon="upload-pictures"
 if [[ $chkmin = *"minimal"* ]]; then
     if [[ $current = *"mechanical"* ]]; then
         # Minimal Mechanical Theme
-        notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
+        notify-send -i $icon "SLiM Background" "Synchronize current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/mechanical/wall-minimal)"
         convert ~/.wallpaper/mechanical/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
         notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     else
         # Minimal Eyecandy Theme
-        notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
+        notify-send -i $icon "SLiM Background" "Synchronize current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/eyecandy/wall-minimal)"
         convert ~/.wallpaper/eyecandy/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
         notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
@@ -23,13 +23,13 @@ if [[ $chkmin = *"minimal"* ]]; then
 else
     if [[ $current = *"mechanical"* ]]; then
         # Mechanical Theme
-        notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
+        notify-send -i $icon "SLiM Background" "Synchronize current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/mechanical/wall)"
         convert ~/.wallpaper/mechanical/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
         notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
     else
         # Eyecandy Theme
-        notify-send -i $icon "SLiM Background" "Syncronizing current wallpaper" &
+        notify-send -i $icon "SLiM Background" "Synchronize current wallpaper" &
         wall="$(cat ~/.config/openbox/visual-mode/eyecandy/wall)"
         convert ~/.wallpaper/eyecandy/$wall -resize 1920x1080 -blur 0x80 ~/.wallpaper/slim.png && \
         notify-send -u low -i $icon "SLiM Background" "Synchronized successfully" &
