@@ -39,7 +39,7 @@ Look in the [gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery) and [vide
 ## Setup
 
 ### <p align="center">:construction_worker: README UNDER MAINTENANCE :construction_worker:</p>
-<p align="center">SLiM Installation<p>
+<p align="center"><a href="https://github.com/owl4ce/dotfiles/tree/master/Others/slim">SLiM Installation</a><p>
 
 ## Notes
 ### <p align="center">Detailed Environment</p>
